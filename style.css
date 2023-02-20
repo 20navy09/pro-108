@@ -1,0 +1,41 @@
+body{
+    font-family: 'Lobster', cursive;
+    background-color:rgb(147, 147, 241);
+}
+
+.header_div {
+    background-color:rgb(251, 228, 114);
+}
+    
+
+.header_div h3{
+    color:black;
+    font-size: 20px;
+}
+
+.header_div h1{
+    color: purple;
+    font-size: 50px;
+}
+
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing:3px;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: aliceblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(144, 144, 143)
+}
+
+
+
